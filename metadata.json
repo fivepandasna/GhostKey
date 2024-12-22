@@ -1,0 +1,7 @@
+{
+    "name": "GhostKey",
+    "description": "Create ghost blocks by pressing G. Refer to README.md to change key.",
+    "creator": "fivepandas",
+    "entry": "index.js",
+    "version": "1.0.0"
+}
