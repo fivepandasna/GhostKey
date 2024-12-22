@@ -6,7 +6,7 @@ GhostKey -  An extremely simple ghost key for chattriggers intended for skyblock
 
 <div align="center">
 
-![cpe_logo](https://raw.githubusercontent.com/fivepandasna/GhostKey/main/assets/logo-80.png)
+![gk_logo](https://raw.githubusercontent.com/fivepandasna/GhostKey/main/assets/logo-80.png)
 
 [![Downloads](https://img.shields.io/github/downloads/fivepandasna/GhostKey/total?label=downloads&color=208a19&logo=github&style=for-the-badge)](https://github.com/fivepandasna/GhostKey/releases)
 </div>
