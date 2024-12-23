@@ -1,7 +1,8 @@
 {
-    "name": "GhostKey",
-    "description": "Create ghost blocks by pressing G. Refer to README.md to change key.",
-    "creator": "fivepandas",
-    "entry": "index.js",
-    "version": "1.0.0"
+  "name": "GhostKey",
+  "creator": "fivepandas",
+  "entry": "index.js",
+  "description": "Create ghost blocks by pressing G. Refer to README.md to change key.",
+  "version": "1.1.0",
+  "requires": ["PogData"]
 }
