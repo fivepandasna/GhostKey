@@ -1,5 +1,5 @@
 <h1 align="center">
-GhostKey -  An extremely simple ghost key for chattriggers intended for skyblock
+GhostKey -  An extremely simple ghost key for ChatTriggers intended for skyblock
 </h1>
 
 
