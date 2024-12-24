@@ -15,7 +15,7 @@ GhostKey -  An extremely simple ghost key for ChatTriggers intended for skyblock
 ## Installation 
 How to install the module 
 
-1. Download GhostKey-Version.zip from the latest release [release](https://github.com/fivepandasna/GhostKey/releases)
+1. Download GhostKey-Version.zip from the latest [release](https://github.com/fivepandasna/GhostKey/releases)
 
 2. Unzip the file by right clicking then clicking "Extract All..." in the context menu
   
