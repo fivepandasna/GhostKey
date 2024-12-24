@@ -21,6 +21,7 @@ How to install the module
   
 3. Navigate to your chattriggers module folder by typing /ct files and clicking on "modules in game or by navigating to %appdata%\.minecraft\config\ChatTriggers\modules
 
+4. Place the unzipped GhostKey folder in modules and type /ct reload in game
 
 
 ## Usage
