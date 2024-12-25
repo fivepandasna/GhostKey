@@ -11,6 +11,7 @@ const settings = new PogObject("GhostKey", {
 
 let ghostkey = Client.getKeyBindFromKey(settings.ghostKey, "Ghost key");
 
+// Function to reload the keybind when the key is updated
 const updateKeyBind = () => {
     ghostkey = Client.getKeyBindFromKey(settings.ghostKey, "Ghost key");
 };
