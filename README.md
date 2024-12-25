@@ -32,12 +32,8 @@ I'm sure you know the purpose of ghost blocks.
 
 
 ## Change key
-To change the key you have to click to crate a ghost block, here's what you have to do
+To change the key you have to click to create a ghost block, here's what you have to do
 
-1. Open the module file by typing /ct files in game, opening modules, then opening GhostKey or navigating to %appdata%\.minecraft\config\ChatTriggers\modules\GhostKey
+Type /setghostkey "key". Replace "key" with whatever alphabetic key you want, such as "H".
 
-2. Open index.js with notepad or an IDE if you want
-  
-3. In line 5, or "const ghostkey = Client.getKeyBindFromKey(Keyboard.KEY_G, "Ghost key")" change the G in "KEY_G" to whatever key you want. Do not change anything else
-  
-4. Save the file and reload modules with /ct reload
+If a key doesn't work, it is likely because it is bound to another action. If not, message me on my provided discord.
