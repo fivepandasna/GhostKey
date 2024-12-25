@@ -34,3 +34,5 @@ I'm sure you know the purpose of ghost blocks.
 To change the key you have to click to create a ghost block, here's what you have to do
 
 Type /setghostkey "key". Replace "key" with whatever alphabetic key you want, such as "H".
+
+If a key doesn't work, it is likely because it is bound to another action. If not, message me on my provided discord.
