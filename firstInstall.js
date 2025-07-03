@@ -8,7 +8,8 @@ register("tick", () => {
     if (!firstInstall.firstInstall) {
         let message = `   &3&lYou have successfully installed GhostKey!\n` +
                         `   &r&3Press G to create a ghost block\n` +
-                        `   &r&3Use &a/setghostkey <key>&3 to change the keybind.`
+                        `   &r&3Use &a/setghostkey <key>&3 to change the keybind\n` +
+                        `   &r&3Or you can simply change the key in controls.`
         ChatLib.chat(message)
 
         firstInstall.firstInstall = true
