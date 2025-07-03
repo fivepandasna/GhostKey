@@ -32,8 +32,10 @@ I'm sure you know the purpose of ghost blocks.
 
 
 ## Change key
-To change the key you have to click to create a ghost block, here's what you have to do
+To change the key you have to click to create a ghost block, here's what you have to do:
 
-Type /setghostkey "key". Replace "key" with whatever alphabetic key you want, such as "H".
+Typically you can simply change the ghost keybind in your minectaft controls.
+
+Or, you can type /setghostkey "key". Replace "key" with whatever alphabetic key you want, such as "H".
 
 If a key doesn't work, it is likely because it is bound to another action. If not, message me on my provided discord.
